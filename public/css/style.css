@@ -1,0 +1,16 @@
+img{
+    width: 20rem;
+    min-width: 20rem;
+    max-width: 20rem;
+    height: 15rem;
+    min-height: 15rem;
+    max-height: 15rem;
+}
+
+.d-flex>*{
+    margin: .25em;
+}
+
+.hide{
+    display: none;
+}
